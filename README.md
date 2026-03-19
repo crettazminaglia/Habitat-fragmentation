@@ -1,2 +1,2 @@
 # Habitat-fragmentation
-Supplementary materials for the study of habitat fragmentation in phytoplankton communities.
+Supplementary materials: Stochastic processes override deterministic assembly under homogeneous conditions and habitat isolation by Melina Celeste Crettaz-Minaglia & Diamela Gianello.
